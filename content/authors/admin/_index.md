@@ -18,9 +18,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Applied Mathematics: PDE and Numerical Analysis
 - Artificial Intelligence
-- Quantitative Finance
+- Computational Linguistics
+- Information Retrieval
 
 # Education to show in About widget
 education:
@@ -36,13 +36,11 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "/#contact"
+  link: '/#contact'
 - icon: github
   icon_pack: fab
-  link: https://github.com/eiyouwangding
-#- icon: code
-#  icon_pack: fas
-#  link: https://blog.csdn.net/m0_47608964?type=blog
+  link: https://github.com/gcushen
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
