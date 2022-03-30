@@ -25,7 +25,6 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  
   - course: BSc in Mathematics and Data Science
     institution: NYU Shanghai
     year: 2018-2022
