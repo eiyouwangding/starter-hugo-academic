@@ -6,7 +6,7 @@ title: Ding Wang
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergraduate Student, NYU Shanghai
 
 # Organizations/Affiliations to show in About widget
 organizations:
