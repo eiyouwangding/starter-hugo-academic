@@ -20,6 +20,10 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
+- description:
+  name: MATLAB
+- description:
+  name: LaTeX
 - description: 
   icon: r-project
   icon_pack: fab
