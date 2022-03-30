@@ -32,12 +32,12 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
+        * Refactored the back-test code of high-frequency stock trading strategies in Python, increasing the running speedby a factor of over three hundred
         * Modelling
         * Deploying
         
-  - title: Quantitative Research Intern
-    company: Qingan Investment Management Co., Ltd.
+  - title: Data Analyst Intern
+    company: Tongcheng-Elong Holdings Limited
     company_url: 'https://www.ly.com/'
     #company_logo: org-x
     location: Beijing, China
