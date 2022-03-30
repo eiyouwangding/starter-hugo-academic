@@ -32,16 +32,18 @@ experience:
     description: |2-
         Responsibilities include:
         
-          * 1
+        * Analysing
+        * Modelling
+        * Deploying
         
-  - title: Data Analyst Intern
-    company: Tongcheng-Elong Holdings Limited
+  - title: Quantitative Research Intern
+    company: Qingan Investment Management Co., Ltd.
     company_url: 'https://www.ly.com/'
     #company_logo: org-x
     location: Beijing, China
     date_start: '2020-06-01'
-    date_end: '2020-09-31'
-    description: Developed risk control strategies to intercept dangerous users and conduct offline testing.
+    date_end: '2020-09-01'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
