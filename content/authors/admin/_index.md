@@ -39,7 +39,11 @@ social:
   link: '/#contact'
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/eiyouwangding
+- icon: code
+  icon_pack: fas
+  link: '/#contact'
+
 
 
 # Link to a PDF of your resume/CV.
