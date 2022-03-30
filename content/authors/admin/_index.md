@@ -40,9 +40,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/eiyouwangding
-- icon: code
-  icon_pack: fas
-  link: https://blog.csdn.net/m0_47608964?type=blog
+#- icon: code
+#  icon_pack: fas
+#  link: https://blog.csdn.net/m0_47608964?type=blog
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
