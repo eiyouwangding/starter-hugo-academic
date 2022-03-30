@@ -27,8 +27,8 @@ experience:
     company_url: 'http://www.qafunds.com/website/w/h'
     company_logo: org-gc
     location: Shanghai, China
-    date_start: '2021-01'
-    date_end: '2021-07'
+    date_start: '2021-01-01'
+    date_end: '2021-07-31'
     description: |2-
         Responsibilities include:
         
