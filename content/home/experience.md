@@ -25,7 +25,7 @@ experience:
   - title: Quantitative Research Intern
     company: Qingan Investment Management Co., Ltd.
     company_url: 'http://www.qafunds.com/website/w/h'
-    company_logo: qingan
+    #company_logo: qingan
     location: Shanghai, China
     date_start: '2021-01-01'
     date_end: '2021-07-31'
@@ -39,7 +39,7 @@ experience:
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
-    company_logo: org-x
+    #company_logo: org-x
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
