@@ -32,9 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Refactored the back-test code of high-frequency stock trading strategies in Python
-        * Developed high-frequency stock trading strategies with Sharpe ratio of over 1.5
-        * Developed future CTA strategies with Sharpe ratio of over 2.5
+          * 1
         
   - title: Data Analyst Intern
     company: Tongcheng-Elong Holdings Limited
