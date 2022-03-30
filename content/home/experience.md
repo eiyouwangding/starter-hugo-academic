@@ -24,11 +24,11 @@ date_format: Jan 2006
 experience:
   - title: Quantitative Research Intern
     company: Qingan Investment Management Co., Ltd.
-    company_url: ''
+    company_url: 'http://www.qafunds.com/website/w/h'
     company_logo: org-gc
     location: Shanghai, China
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2021-01'
+    date_end: '2021-07'
     description: |2-
         Responsibilities include:
         
