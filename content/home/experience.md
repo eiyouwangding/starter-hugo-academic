@@ -32,18 +32,19 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Refactored the back-test code of high-frequency stock trading strategies in Python
+        * Developed high-frequency stock trading strategies with Sharpe ratio of over 1.5
+        * Developed future CTA strategies with Sharpe ratio of over 2.5
+        * Collected and processed futures data, including data crawling and data cleaning, and deployed the data on Linux servers for daily updating of tasks.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Data Analyst Intern
+    company: Tongcheng-Elong Holdings Limited
+    company_url: 'https://www.ly.com/'
     #company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Beijing, China
+    date_start: '2020-06-01'
+    date_end: '2020-09-31'
+    description: Developed risk control strategies to intercept dangerous users and conduct offline testing.
 
 design:
   columns: '2'
