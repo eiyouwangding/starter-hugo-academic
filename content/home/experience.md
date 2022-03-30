@@ -33,8 +33,9 @@ experience:
         Responsibilities include:
         
         * Refactored the back-test code of high-frequency stock trading strategies in Python, increasing the running speedby a factor of over three hundred
-        * Modelling
-        * Deploying
+        * Used Ridge regression model to develop high-frequency stock trading strategies with Sharpe ratio of over 1.5
+        * Developed future CTA strategies based on fundamental data of ferrous metals with Sharpe ratio of over 2.5
+        * Collected and processed futures data, including data crawling and data cleaning, and deployed the data on Linux servers for daily updating of tasks
         
   - title: Data Analyst Intern
     company: Tongcheng-Elong Holdings Limited
@@ -43,7 +44,12 @@ experience:
     location: Beijing, China
     date_start: '2020-06-01'
     date_end: '2020-09-01'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Responsibilities include:
+        
+        * Mined user behavior data for marketing businesses to determine if they had been attacked
+        * Screened out high-risk users using models such as the GN community discovery algorithm; added users to the blacklist
+        * Developed risk control strategies to intercept dangerous users and conduct offline testing.
 
 design:
   columns: '2'
