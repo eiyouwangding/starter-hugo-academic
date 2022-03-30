@@ -21,14 +21,20 @@ feature:
   icon_pack: fab
   name: Python
 - description:
+  icon: m
+  icon_pack: fas
   name: MATLAB
-- description:
+- description: 
+  icon: l
+  icon_pack: fas
   name: LaTeX
+-description:
+  name: Linux
 - description: 
   icon: r-project
   icon_pack: fab
   name: R
-- description: 10%
+- description: 
   icon: camera-retro
   icon_pack: fas
   name: Photography
