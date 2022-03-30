@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Quantitative Research Intern
+    company: Qingan Investment Management Co., Ltd.
+    location: Shanghai, China
+    date_start: '2021-01'
+    date_end: '2021-07'
+    
+  - title: Data Analyst Intern
+    company: Tongcheng-Elong Holdings Limited
+    location: Beijing, China
+    date_start: '2020-06'
+    date_end: '2020-09'
+ 
+  
   - title: CEO
     company: GenCoin
     company_url: ''
