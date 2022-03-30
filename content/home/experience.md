@@ -24,22 +24,9 @@ date_format: Jan 2006
 experience:
   - title: Quantitative Research Intern
     company: Qingan Investment Management Co., Ltd.
-    location: Shanghai, China
-    date_start: '2021-01'
-    date_end: '2021-07'
-    
-  - title: Data Analyst Intern
-    company: Tongcheng-Elong Holdings Limited
-    location: Beijing, China
-    date_start: '2020-06'
-    date_end: '2020-09'
- 
-  
-  - title: CEO
-    company: GenCoin
     company_url: ''
     company_logo: org-gc
-    location: California
+    location: Shanghai, China
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
@@ -59,5 +46,5 @@ experience:
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
-  columns: '4'
+  columns: '2'
 ---
