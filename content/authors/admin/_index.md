@@ -18,9 +18,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
+- Applied Mathematics
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Quantitative Finance
 
 # Education to show in About widget
 education:
@@ -42,7 +42,7 @@ social:
   link: https://github.com/eiyouwangding
 - icon: code
   icon_pack: fas
-  link: '/#contact'
+  link: https://blog.csdn.net/m0_47608964?type=blog
 
 
 
