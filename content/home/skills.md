@@ -28,7 +28,7 @@ feature:
   icon: l
   icon_pack: fas
   name: LaTeX
--description:
+- description:
   name: Linux
 - description: 
   icon: r-project
