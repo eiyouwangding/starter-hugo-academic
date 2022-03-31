@@ -21,8 +21,8 @@ feature:
   icon_pack: fab
   name: Python
 - description:
-  icon: m
-  icon_pack: fas
+  icon: matlab
+  icon_pack: custom
   name: MATLAB
 - description: 
   icon: l
