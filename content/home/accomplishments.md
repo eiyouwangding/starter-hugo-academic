@@ -47,6 +47,14 @@ item:
   organization_url: https://www.datacamp.com
   title: 'Object-Oriented Programming in R'
   url: ""
+- certificate_url: https://www.comap.com/undergraduate/contests/index.html
+  date_end: "2021-02-01"
+  date_start: "2021-04-01"
+  description: ""
+  organization: Consortium for Mathematics and Its Applications
+  organization_url: https://www.comap.com/
+  title: '2021 Interdisciplinary Contest Modeling Finalist Award'
+  url: ""
 
 design:
   columns: '2' 
