@@ -1,6 +1,6 @@
 ---
 widget: notes
-headless: true
+headless: blank
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Courses
