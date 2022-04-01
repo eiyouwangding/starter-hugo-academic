@@ -18,21 +18,23 @@ subtitle:
 feature:
 - description: 
   icon: python
-  icon_pack: fab
+  icon_pack: custom
   name: Python
 - description:
   icon: matlab
   icon_pack: custom
   name: MATLAB
 - description: 
-  icon: l
-  icon_pack: fas
+  icon: LaTeX
+  icon_pack: custom
   name: LaTeX
 - description:
+  icon: linux
+  icon_pack: custom
   name: Linux
 - description: 
-  icon: r-project
-  icon_pack: fab
+  icon: R
+  icon_pack: custom
   name: R
 - description: 
   icon: camera-retro
