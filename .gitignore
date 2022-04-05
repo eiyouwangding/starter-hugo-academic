@@ -9,9 +9,6 @@ node_modules/
 go.sum
 .hugo_build.lock
 content/project/.DS_Store
-.DS_Store
-.DS_Store
-content/.DS_Store
 content/project/example/.Rhistory
 content/.DS_Store
 .DS_Store
