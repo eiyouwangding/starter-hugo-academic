@@ -63,6 +63,6 @@ email: ""
 highlight_name: true
 ---
 
-My name is Ding Wang. I am an undergraduate student in the class of 2022 at NYU Shanghai. I double major in Mathematics and Data Science.
+My name is Ding Wang. I am a first-year master student from the National University of Singapore Mathematics Department. Before coming to NUS, I obtained my Bachelor's degree in Math and Data Science at New York University Shanghai. I am pursuing an internship in sales and trading or quantitative trading.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
