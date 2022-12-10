@@ -6,12 +6,12 @@ title: Ding Wang
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate at NYU Shanghai
+role: Postgraduate at NUS Math
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: New York University Shanghai
-  url: https://shanghai.nyu.edu/
+- name: National University of Singapore
+  url: https://www.nus.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -25,6 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: MSc in Mathematics
+    institution: National University of Singapore
+    year: 2022-2024
   - course: BSc in Mathematics and Data Science
     institution: NYU Shanghai
     year: 2018-2022
