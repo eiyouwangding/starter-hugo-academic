@@ -25,15 +25,15 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
-  email: dw2402@nyu.edu
-  phone: (+86)13333192667
+  email: ding.wang@u.nus.edu
+  phone: (+65)88636755
   address:
-    street: 1555 Century Avenue
-    city: Shanghai
-    region: Shanghai
-    postcode: '200122'
-    country: China
-    country_code: CN
+    street: 91 West Coast Vale
+    #city: Singapore
+    #region: Shanghai
+    postcode: '126755'
+    country: Singapore
+    country_code: SG
   coordinates:
     latitude: '31.40527'
     longitude: '121.48941'
